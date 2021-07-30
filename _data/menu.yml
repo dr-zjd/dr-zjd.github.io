@@ -27,8 +27,8 @@ entries:
   #  url: feed.xml
   
   - title: 关于我
-  #  entries:
-  #    - title: with subsubitems
-  #    - title: about me
-        url: about
+     entries:
+       - title: with subsubitems
+       - title: about me
+         url: about
   
