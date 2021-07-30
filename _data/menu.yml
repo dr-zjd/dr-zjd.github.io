@@ -16,7 +16,7 @@ entries:
       show_more_text: 其他更多内容...
       show_more_url: archive.html
 
-  - title: 主要内容2
+  - title: example2的项目
     post_list:
       category: example2
       show_more: true
