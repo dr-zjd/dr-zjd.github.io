@@ -11,7 +11,7 @@ entries:
 
   - title: 主要内容1
     post_list:
-      limit: 5
+      limit: 8
       show_more: true
       show_more_text: 其他更多内容...
       show_more_url: archive.html
@@ -28,7 +28,7 @@ entries:
   
   - title: 关于我
     entries:
-      - title: with subsubitems
+#     - title: with subsubitems
       - title: about me
         url: about
   
