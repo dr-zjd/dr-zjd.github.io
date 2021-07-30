@@ -2,7 +2,7 @@ title: 测试的站点! # name of the site
 author: J.D. Zhu  # name of site's author
 email: chanton.zhu@meurosci.com.cn # email of site's author
 url: https://riggraz.dev # root address of the site
-baseurl: "/mystyle" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/page" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   我的一个没有主题的测试站点.
 
