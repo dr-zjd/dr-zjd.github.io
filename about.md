@@ -27,29 +27,8 @@ key: page-about
 ---
 
 
-## 朱朱侠——一个并不专业统计学小白
+## 朱朱侠
 
-- 神经外科大白
-- 编程小白
-- 在统计学研究边缘摸爬滚打
-- 
+就~随便写点什么~~~
 
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| | | |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| | | |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| | | | | |
+- 所思·所想·所做
