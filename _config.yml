@@ -39,17 +39,17 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : chanton.zhu@neurosci.com.cn
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  facebook  : test
+  twitter   : test
+  weibo     : test
+  googleplus: test
+  telegram  : test
+  medium    : test
   zhihu     : dr-zjd
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  douban    : test
+  linkedin  : test
   github    : dr-zjd
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  npm       : test
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
