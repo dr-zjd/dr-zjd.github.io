@@ -200,6 +200,26 @@ article_header:
 
 ![46.gif](https://i.loli.net/2021/08/17/LAXkbu9VrFJswvP.gif)
 
+▼而随着年龄增长，这条动脉向下迂曲，术中可见其**从上方压迫三叉神经**，或更为向下迂曲而**从腋下压迫三叉神经**。
+
+![47.gif](https://i.loli.net/2021/08/17/owd21vzEbfT4RLp.gif)
+
+▼这是面神经和前庭蜗神经。
+
+![48.gif](https://i.loli.net/2021/08/17/qXPRQ3bxscG412r.gif)
+
+▼这是小脑前下动脉。
+
+![49.gif](https://i.loli.net/2021/08/17/5n7JyFwRbATvop4.gif)
+
+▼再让我们看看**面肌痉挛**术中所见。小脑前下动脉（下图）可向下迂曲压迫面神经。
+
+![50.gif](https://i.loli.net/2021/08/17/YjaNdIHQcbrXEhP.gif)
+
+
+
+
+
 
 
 
