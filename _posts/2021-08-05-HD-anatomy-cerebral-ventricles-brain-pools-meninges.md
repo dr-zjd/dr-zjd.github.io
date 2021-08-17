@@ -10,6 +10,8 @@ article_header:
 
 **脑室系统 = 侧脑室 第三脑室 第四脑室 (第五脑室 第六脑室) 中脑水管**
 
+<!--more-->
+
 ![ia_100000002.png](https://i.loli.net/2021/08/06/poRhaXSZzPgV1qE.png)
 
 ![ia_100000004.png](https://i.loli.net/2021/08/06/hnOBKNeC4wXcd8U.png)
