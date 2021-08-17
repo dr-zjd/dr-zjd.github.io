@@ -10,6 +10,8 @@ article_header:
 
 ## 眼附属器
 
+<!--more-->
+
 ### 眼睑、结膜、泪器、眼外肌、眼眶
 
 ![fig2](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/20210802.2.jpg)
