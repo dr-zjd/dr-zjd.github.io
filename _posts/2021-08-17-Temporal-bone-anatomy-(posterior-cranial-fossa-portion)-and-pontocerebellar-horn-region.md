@@ -216,6 +216,49 @@ article_header:
 
 ![50.gif](https://i.loli.net/2021/08/17/YjaNdIHQcbrXEhP.gif)
 
+▼约另一半病例，则可见**小脑后下动脉**（下图）向上迂曲压迫面听神经
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/51.gif)
+
+▼**小脑后下动脉**（下图）随后下行并从背侧穿行于舌咽神经与迷走神经之间。
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/52.gif)
+
+▼**小脑后下动脉**可从背侧走行，此处（下图）看起来似乎在迷走神经和副神经下方，然后行向背侧。实际上它可**穿行于舌咽神经至副神经之间的任何部位**。
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/53.gif)
+
+---
+
+**颞骨解剖(后颅窝部分) **
+
+▼接下来看看**内听道口**（porus 下图）的解剖。
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/54.gif)
+
+▼这是面神经
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/55.gif)
+
+▼这是前庭蜗神经
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/55.gif)
+
+▼这是**弓状下动脉**（72%的脑中存在。在内听道口的内侧从AICA发出，穿过**弓状下窝**表面的硬脑膜进入弓状下管，供应**半规管处的岩骨**）
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/57.gif)
+
+▼这是**迷路动脉**（进入内听道后分支供应内听道骨壁和覆盖其表面的硬脑膜、内听道内的神经、前庭、耳蜗和内耳等结构）
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/58.gif)
+
+▼面神经（下图）位于小脑绒球下
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/59.gif)
+
+▼Luschka孔
+
+![fig](http://qxo95ppqa.hd-bkt.clouddn.com/60.gif)
 
 
 
