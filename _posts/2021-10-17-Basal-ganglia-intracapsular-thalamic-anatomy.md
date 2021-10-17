@@ -64,6 +64,38 @@ article_header:
 
 一侧视区接受双眼同侧半视网膜的冲动，损伤一侧视区可引起双眼对侧视野偏盲称为同向性偏盲。
 
+### 附：内囊的解剖与功能
+
+![1db859b2dc7715887.jpg](https://s1.imagehub.cc/images/2021/10/17/1db859b2dc7715887.jpg)
+
+![22a838460af5d3ed5.jpg](https://s1.imagehub.cc/images/2021/10/17/22a838460af5d3ed5.jpg)
+
+![3a71d443435705421.jpg](https://s1.imagehub.cc/images/2021/10/17/3a71d443435705421.jpg)
+
+![4b7205de3cbd2bdf0.jpg](https://s1.imagehub.cc/images/2021/10/17/4b7205de3cbd2bdf0.jpg)
+
+![5e663e678dc07c4e6.jpg](https://s1.imagehub.cc/images/2021/10/17/5e663e678dc07c4e6.jpg)
+
+![6392608c21d8d229c.jpg](https://s1.imagehub.cc/images/2021/10/17/6392608c21d8d229c.jpg)
+
+![7.110e34db61871c232.jpg](https://s1.imagehub.cc/images/2021/10/17/7.110e34db61871c232.jpg)
+
+![8.1eac6fa140a239a03.jpg](https://s1.imagehub.cc/images/2021/10/17/8.1eac6fa140a239a03.jpg)
+
+![952709e2e5ad3c3d4.jpg](https://s1.imagehub.cc/images/2021/10/17/952709e2e5ad3c3d4.jpg)
+
+![10d93ec3142867b02b.jpg](https://s1.imagehub.cc/images/2021/10/17/10d93ec3142867b02b.jpg)
+
+![119a2f0a1a12a774b1.jpg](https://s1.imagehub.cc/images/2021/10/17/119a2f0a1a12a774b1.jpg)
+
+![12.1e1a8795bfd38fc73.jpg](https://s1.imagehub.cc/images/2021/10/17/12.1e1a8795bfd38fc73.jpg)
+
+![13.1e2c14778c4ec15a9.jpg](https://s1.imagehub.cc/images/2021/10/17/13.1e2c14778c4ec15a9.jpg)
+
+![14.16d69fb71bf62ebd5.jpg](https://s1.imagehub.cc/images/2021/10/17/14.16d69fb71bf62ebd5.jpg)
+
+![156c10ade6ca6356df.jpg](https://s1.imagehub.cc/images/2021/10/17/156c10ade6ca6356df.jpg)
+
 ## 丘脑解剖
 
 ![111692616568e017f3.jpg](https://s1.imagehub.cc/images/2021/10/17/111692616568e017f3.jpg)
@@ -96,3 +128,21 @@ article_header:
 2. 丘脑至皮质下(锥体外系统)诸神经核的纤维联系受累时产生面部表情分离性运动障碍。即当患者大哭大笑时，病灶对侧面部表情丧失，但令患者做随意动作时，面肌并无瘫痪。
 3. 丘脑外侧核群与红核、小脑、苍白球的联系纤维受损产生对侧偏身不自主运动，可出现舞蹈样动作或手足徐动样动作。
 4. 丘脑前核与下丘脑及边缘系统的联系受损产生情感障碍，表现为情绪不稳及强哭强笑。
+
+![13.1fc1382246e0bb6f4.jpg](https://s1.imagehub.cc/images/2021/10/17/13.1fc1382246e0bb6f4.jpg)
+
+![14.1f35211e6776daaf1.jpg](https://s1.imagehub.cc/images/2021/10/17/14.1f35211e6776daaf1.jpg)
+
+![15f0adcf8cd32433b9.jpg](https://s1.imagehub.cc/images/2021/10/17/15f0adcf8cd32433b9.jpg)
+
+![160ac35dc1aa2036f9.jpg](https://s1.imagehub.cc/images/2021/10/17/160ac35dc1aa2036f9.jpg)
+
+![17b3d96f0cf5a5109d.jpg](https://s1.imagehub.cc/images/2021/10/17/17b3d96f0cf5a5109d.jpg)
+
+![1847ff70ed882c9b0b.jpg](https://s1.imagehub.cc/images/2021/10/17/1847ff70ed882c9b0b.jpg)
+
+![19.jpg](https://s1.imagehub.cc/images/2021/10/17/19.jpg)
+
+![204376a5302d4d8663.jpg](https://s1.imagehub.cc/images/2021/10/17/204376a5302d4d8663.jpg)
+
+![21.jpg](https://s1.imagehub.cc/images/2021/10/17/21.jpg)
