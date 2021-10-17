@@ -14,6 +14,8 @@ article_header:
 - 从临床角度统称椎体外系。
 - 其下行纤维主要有被盖脊髓束、红核脊髓束、网状脊髓束及橄榄脊髓束。
 
+<!--more-->
+
 ![1.jpg](https://i.loli.net/2021/10/17/HzsvPUqlOXZ1tfG.jpg)
 
 ![2.jpg](https://i.loli.net/2021/10/17/NYHdpKWSO4PCy53.jpg)
