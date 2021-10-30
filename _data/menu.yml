@@ -4,28 +4,28 @@
 entries:
   - title: 前言
     entries:
-      - title: 这就是一个我的测试站点
+      - title: My page
       - title: 站点主页
         url: https://www.baidu.com
-      - title: "没有主题的测试 <a href='https://www.baidu.com'>站点</a> 和 <a href='www.google.com'>其他</a>"
+      - title: "没有主题的测试 <a href='https://www.baidu.com'>站点</a> 和 <a href='www.yzq.net.cn'>其他</a>"
 
-  - title: 主要内容1
+  - title: 主要内容
     post_list:
       limit: 8
       show_more: true
       show_more_text: 其他更多内容...
       show_more_url: archive.html
 
-  - title: example2的项目
+  - title: example的项目
     post_list:
-      category: example2
+      category: example
       show_more: true
       show_more_text: 其他更多内容...
       show_more_url: example2-archive.html
       
-  - title: example3的项目
+  - title: test的项目
     post_list:
-      category: example3
+      category: test
       show_more: true
       show_more_text: 其他更多内容...
       show_more_url: example3-archive.html
