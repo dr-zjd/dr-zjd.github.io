@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 前言
+  - title: 站点汇总
     entries:
       - title: My page
       - title: 身份上传查询平台入口
         url: https://www.wjx.cn/resultquery.aspx?activity=136392882
-      - title: "没有主题的测试 <a href='https://www.baidu.com'>站点</a> 和 <a href='www.yzq.net.cn'>其他</a>"
+      - title: "其他站点 <a href='www.yzq.net.cn'>虞·你相遇</a> 和 <a href='https://www.wjx.cn/vj/ORSaYQ1.aspx'>身份信息上传平台</a>"
 
   - title: 主要内容
     post_list:
