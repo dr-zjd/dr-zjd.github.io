@@ -16,12 +16,12 @@ entries:
       show_more_text: 其他更多内容...
       show_more_url: archive.html
 
-  - title: example的项目
-    post_list:
-      category: example
-      show_more: true
-      show_more_text: 其他更多内容...
-      show_more_url: example-archive.html
+   #- title: example的项目
+   #  post_list:
+   #  category: example
+   #  show_more: true
+   #  show_more_text: 其他更多内容...
+   #  show_more_url: example-archive.html
       
   - title: test的项目
     post_list:
