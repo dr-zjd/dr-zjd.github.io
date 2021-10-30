@@ -5,8 +5,8 @@ entries:
   - title: 前言
     entries:
       - title: My page
-      - title: 站点主页
-        url: https://www.baidu.com
+      - title: 身份上传查询平台入口
+        url: https://www.wjx.cn/resultquery.aspx?activity=136392882
       - title: "没有主题的测试 <a href='https://www.baidu.com'>站点</a> 和 <a href='www.yzq.net.cn'>其他</a>"
 
   - title: 主要内容
