@@ -21,14 +21,14 @@ entries:
       category: example
       show_more: true
       show_more_text: 其他更多内容...
-      show_more_url: example2-archive.html
+      show_more_url: example-archive.html
       
   - title: test的项目
     post_list:
       category: test
       show_more: true
       show_more_text: 其他更多内容...
-      show_more_url: example3-archive.html
+      show_more_url: test-archive.html
 
   #- title: rss
   #  url: feed.xml
