@@ -9,26 +9,26 @@ entries:
         url: https://www.wjx.cn/resultquery.aspx?activity=136392882
       - title: "其他站点 <a href='https://www.yzq.net.cn'>虞·你相遇</a> 和 <a href='https://www.wjx.cn/vj/ORSaYQ1.aspx'>身份信息上传平台</a>"
 
-  - title: 主要内容
-    post_list:
-      limit: 8
-      show_more: true
-      show_more_text: 其他更多内容...
-      show_more_url: archive.html
+#  - title: 主要内容
+#    post_list:
+#      limit: 8
+#      show_more: true
+#      show_more_text: 其他更多内容...
+#      show_more_url: archive.html
 
-  - title: example的项目
-    post_list:
-      category: example
-      show_more: true
-      show_more_text: 其他更多内容...
-      show_more_url: example-archive.html
+#  - title: example的项目
+#    post_list:
+#      category: example
+#      show_more: true
+#      show_more_text: 其他更多内容...
+#      show_more_url: example-archive.html
       
-  - title: test的项目
-    post_list:
-      category: test
-      show_more: true
-      show_more_text: 其他更多内容...
-      show_more_url: test-archive.html
+#  - title: test的项目
+#    post_list:
+#      category: test
+#      show_more: true
+#      show_more_text: 其他更多内容...
+#      show_more_url: test-archive.html
 
   #- title: rss
   #  url: feed.xml
