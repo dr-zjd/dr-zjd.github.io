@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Dr.Zhu的脑科学空间
+title   : Dr.Zhu的点滴时空
 description: 一个专注于脑科学临床和学术研究的博客空间 > # this means to ignore newlines until "Language & timezone" 
 
 
