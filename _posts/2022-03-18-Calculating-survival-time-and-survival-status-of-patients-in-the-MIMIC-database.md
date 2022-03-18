@@ -15,3 +15,24 @@ article_header:
 library("lubridate")
 data <- read.csv("mimic_time.csv")
 ```
+
+2. 计算生存时间
+
+```R
+# 用dod减去outtime，作为生存时间
+# 参数解释：
+# difftime：时间相减；
+# dmy与dmy_hms：时间格式化；
+# date：时间转日期
+data$survival_time =difftime(dmy(data$dod),date(dmy_hms(data$outtime)),units = "days")
+# survival_time 列转为数值型
+data$survival_time = as.numeric(data$survival_time)
+```
+
+3. 处理生存时间
+
+```R
+# 生存时间大于等于30天状态设为存活：0，其他设为1
+data$status=ifelse(data$survival_time>=30,0,1) 
+```
+
