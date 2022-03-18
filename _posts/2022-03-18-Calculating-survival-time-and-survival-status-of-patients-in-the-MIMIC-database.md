@@ -10,6 +10,8 @@ article_header:
 
 1. 加载包并读取数据
 
-    # install.packages("lubridate")
-    library("lubridate")
-    data <- read.csv("mimic_time.csv")
+```R
+# install.packages("lubridate")
+library("lubridate")
+data <- read.csv("mimic_time.csv")
+```
