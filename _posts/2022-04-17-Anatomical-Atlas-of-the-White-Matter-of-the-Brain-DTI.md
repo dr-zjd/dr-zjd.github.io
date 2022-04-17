@@ -1,5 +1,5 @@
 ---
-title: 脑白质DTI解剖图谱（1）
+title: 脑白质DTI解剖图谱
 tags: 神经解剖学
 article_header:
   type: cover
