@@ -29,29 +29,13 @@ article_header:
 | ![Axi-18.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-18.jpg) | ac-anterior commissure                           前联合<br>cg-cingulum                                             扣带<br>cpt-corticopontine tract                       皮质脑桥束<br>cst-corticospinal tract                           皮质脊髓束<br>fx-fornix                                                     穹隆<br>ifo-inferior fronto-occipital fasciculus    下额枕束<br>opt-optic tract                                               视束<br>sn-substantia nigra                                     黒质<br>st-stria terminalis                                       终纹<br>unc-uncinate fasciculus                                钩束 |  
 | ![Axi-19.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-19.jpg) | cg-cingulum                                           扣带<br>cp-cerebral peduncle                             大脑脚<br>cpt-corticopontine tract                          皮质脑桥束<br>cst-corticospinal tract                            皮质脊髓束<br>dscp-decussation of the superior cerebellar peduncles  小脑上脚交叉<br>ilf-inferior longitudinal fasciculus      下纵束<br>opt-optic tract                                       视束<br>scp-superior cerebellar peduncle          小脑上脚<br>unc-uncinate fasciculus                         钩束 |  
 | ![Axi-20.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-20.jpg) | cpt-corticopontine tract                  皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>ilf-inferior longitudinal fasciculus  下纵束<br>mcp-middle cerebellar peduncle        小脑中脚<br>scp-superior cerebellar peduncle      小脑上脚<br>unc-uncinate fasciculus                      钩束 |  
-| ![Axi-21.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-21.jpg) | cpt  corticopontine tract                   皮质脑桥束
-
-cst  corticospinal tract                      皮质脊髓束
-
-icp  inferior cerebellar peduncle      小脑下脚
-
-ilf  inferior longitudinal fasciculus   下纵束
-
-mcp  middle cerebellar peduncle    小脑中脚
-
-ml   medial lemniscus                       内侧丘系
-
-pct  pontine crossing tract                脑桥横束
-
-scp  superior cerebellar peduncle     小脑上脚
-
-unc  uncinate fasciculus                     钩束 |  
-| ![Axi-22.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-22.jpg) |  |  
-| ![Axi-23.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-23.jpg) |  |  
-| ![Axi-24.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-24.jpg) |  |  
-| ![Axi-25.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-25.jpg) |  | 
-| ![Axi-26.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-26.jpg) |  |  
-| ![Axi-27.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-27.jpg) |  |  
+| ![Axi-21.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-21.jpg) | cpt-corticopontine tract                   皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>ilf-inferior longitudinal fasciculus   下纵束<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系<br>pct-pontine crossing tract                脑桥横束<br>scp-superior cerebellar peduncle     小脑上脚<br>unc-uncinate fasciculus                     钩束 |  
+| ![Axi-22.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-22.jpg) | cpt-corticopontine tract                   皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>ilf-inferior longitudinal fasciculus   下纵束<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系<br>pct-pontine crossing tract                脑桥横束<br>scp-superior cerebellar peduncle     小脑上脚<br>unc-uncinate fasciculus                     钩束 |  
+| ![Axi-23.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-23.jpg) | cpt-corticopontine tract               皮质脑桥束<br>cst-corticospinal tract                   皮质脊髓束<br>dn-dentate nucleus                     齿状核<br>icp-inferior cerebellar peduncle   小脑下脚<br>ilf-inferior longitudinal fasciculus  下纵束<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系<br>pct-pontine crossing tract                脑桥横束<br>scp-superior cerebellar peduncle     小脑上脚<br>v.   第五对脑神经（三叉神经） |  
+| ![Axi-24.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-24.jpg) | cpt-corticopontine tract                   皮质脑桥束<br>cst-corticospinal tract                       皮质脊髓束<br>dn-dentate nucleus                         齿状核<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系<br>pct-pontine crossing tract                脑桥横束<br>scp-superior cerebellar peduncle     小脑上脚 | 
+| ![Axi-25.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-25.jpg) | cp-corticopontine tract                  皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>dn-dentate nucleus                        齿状核<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系<br>pct-pontine crossing tract                脑桥横束 | 
+| ![Axi-26.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-26.jpg) | cpt-corticopontine tract                   皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系 |  
+| ![Axi-27.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-27.jpg) | cpt-corticopontine tract                    皮质脑桥束<br>cst-corticospinal tract                       皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                      内侧丘系 |  
  
  
  
