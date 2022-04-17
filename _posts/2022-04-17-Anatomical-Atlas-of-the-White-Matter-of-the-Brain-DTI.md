@@ -11,4 +11,29 @@ article_header:
  | ![Axi-1.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-1.jpg) | scr    superior corona radiata             上放射冠<br>cc    corpus callosum             胼胝体<br>cpt    corticopontine tract             皮质脑桥束<br>cst    corticospinal tract             皮质脊髓束<br>str    superior thalamic radiation             丘脑上辐射 | 
  | ![Axi-2.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-2.jpg) | acr    anterior corona radiata             前放射冠<br>atr    anterior thalamic radiation             丘脑前辐射<br>cc    corpus callosum             胼胝体<br>cpt    corticopontine tract             皮质脑桥束<br>cst    corticospinal tract             皮质脊髓束<br>pcr    posterior corona radiata             后放射冠<br>ptr    posterior thalamic radiation             丘脑后辐射<br>scr    superior corona radiata             上放射冠<br>str    superior thalamic radiation             丘脑上辐射 | 
  | ![Axi-3.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-3.jpg) | acr    anterior corona radiata             前放射冠<br>atr    anterior thalamic radiation        丘脑前辐射<br>cc     corpus callosum                         胼胝体<br>cpt    corticopontine tract                   皮质脑桥束<br>cst    corticospinal tract                       皮质脊髓束<br>pcr    posterior corona radiata            后放射冠<br>ptr    posterior thalamic radiation       丘脑后辐射<br>scr    superior corona radiata              上放射冠<br>slf    superior longitudinal fasciculus   上纵束<br>str    superior thalamic radiation         丘脑上辐射 | 
+ | ![Axi-4.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-4.jpg) | acr    anterior corona radiata            前放射冠<br>atr    anterior thalamic radiation        丘脑前辐射<br>cc     corpus callosum                         胼胝体<br>cg     cingulum                                   扣带<br>cpt    corticopontine tract                  皮质脑桥束<br>cst    corticospinal tract                      皮质脊髓束<br>pcr    posterior corona radiata           后放射冠<br>ptr    posterior thalamic radiation       丘脑后辐射<br>scr    superior corona radiata              上放射冠<br>slf    superior longitudinal fasciculus   上纵束<br>str    superior thalamic radiation          丘脑上辐射 | 
+ | ![Axi-5.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-5.jpg) | acr    anterior corona radiata                      前放射冠
 
+atr    anterior thalamic radiation                丘脑前辐射
+
+cc     corpus callosum                                 胼胝体
+
+cg     cingulum                                           扣带
+
+cpt    corticopontine tract                          皮质脑桥束
+
+cst    corticospinal tract                              皮质脊髓束
+
+ifo    inferior fronto-occipital fasciculus     下额枕束
+
+ilf    inferior longitudinal fasciculus            下纵束
+
+pcr    posterior corona radiata                    后放射冠
+
+ptr    posterior thalamic radiation              丘脑后辐射
+
+scr    superior corona radiata                     上放射冠
+
+slf    superior longitudinal fasciculus         上纵束
+
+str    superior thalamic radiation               丘脑上辐射| 
