@@ -37,6 +37,24 @@ article_header:
 | ![Axi-26.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-26.jpg) | cpt-corticopontine tract                   皮质脑桥束<br>cst-corticospinal tract                      皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                       内侧丘系 |  
 | ![Axi-27.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-27.jpg) | cpt-corticopontine tract                    皮质脑桥束<br>cst-corticospinal tract                       皮质脊髓束<br>icp-inferior cerebellar peduncle      小脑下脚<br>mcp-middle cerebellar peduncle    小脑中脚<br>ml-medial lemniscus                      内侧丘系 |  
  
- 
- 
+| 影像图谱 | 
+| ---- | 
+| ![Cor-1.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-1.PNG） | 
+| ![Cor-2.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-2.PNG） | 
+| ![Cor-3.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-3.PNG） | 
+| ![Cor-4.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-4.PNG） | 
+| ![Cor-5.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-5.PNG） | 
+| ![Cor-6.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-6.PNG） | 
+| ![Cor-7.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-7.PNG） | 
+| ![Cor-8.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-8.PNG） | 
+| ![Cor-9.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-9.PNG） | 
+| ![Cor-10.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-10.PNG） | 
+| ![Cor-11.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-11.PNG） | 
+| ![Cor-12.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Cor-12.PNG） | 
+| ![Sag-1.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-1.PNG） | 
+| ![Sag-2.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-2.PNG） | 
+| ![Sag-3.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-3.PNG） | 
+| ![Sag-4.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-4.PNG） | 
+| ![Sag-5.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-5.PNG） | 
+| ![Sag-6.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Sag-6.PNG） | 
  
