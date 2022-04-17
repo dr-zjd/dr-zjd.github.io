@@ -8,8 +8,7 @@ article_header:
 
  | 影像图谱 | 缩写说明 |
  | ---- | ---- |
- | ![Axi-1.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-1.jpg) | scr  superior corona radiata 上放射冠<br>cc corpus callosum 胼胝体<br>cpt corticopontine tract 皮质脑桥束<br>cst corticospinal tract 皮质脊髓束<br>str superior thalamic radiation 丘脑上辐射  | 
- | 桥脑 | 翼点入路<br>眶颧入路<br>颞下入路<br>经天幕扩大入路<br>迷路后入路<br>乙状窦后入路 | 
- | 延髓 | 远外侧入路<br>乙状窦后入路 |
- 
+ | ![Axi-1.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-1.jpg) | scr    superior corona radiata             上放射冠<br>cc    corpus callosum             胼胝体<br>cpt    corticopontine tract             皮质脑桥束<br>cst    corticospinal tract             皮质脊髓束<br>str    superior thalamic radiation             丘脑上辐射 | 
+ | ![Axi-2.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-2.jpg) | acr    anterior corona radiata             前放射冠<br>atr    anterior thalamic radiation             丘脑前辐射<br>cc    corpus callosum             胼胝体<br>cpt    corticopontine tract             皮质脑桥束<br>cst    corticospinal tract             皮质脊髓束<br>pcr    posterior corona radiata             后放射冠<br>ptr    posterior thalamic radiation             丘脑后辐射<br>scr    superior corona radiata             上放射冠<br>str    superior thalamic radiation             丘脑上辐射 | 
+ | ![Axi-3.jpg](https://image-bed-1300186205.cos.ap-hongkong.myqcloud.com/Axi-3.jpg) | acr    anterior corona radiata             前放射冠<br>atr    anterior thalamic radiation        丘脑前辐射<br>cc     corpus callosum                         胼胝体<br>cpt    corticopontine tract                   皮质脑桥束<br>cst    corticospinal tract                       皮质脊髓束<br>pcr    posterior corona radiata            后放射冠<br>ptr    posterior thalamic radiation       丘脑后辐射<br>scr    superior corona radiata              上放射冠<br>slf    superior longitudinal fasciculus   上纵束<br>str    superior thalamic radiation         丘脑上辐射 | 
 
