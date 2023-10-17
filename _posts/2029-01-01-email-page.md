@@ -1,6 +1,6 @@
 ---
 title: Email Page
-tags: 
+tags: Email
 article_header:
   type: cover
   image:
@@ -8,10 +8,10 @@ article_header:
 
 杂志投稿作者邮箱列表（*虚拟邮箱，自由登录使用）
 
-## 邮箱登录地址：https://qiye.aliyun.com/ ##
+**邮箱登录地址：https://qiye.aliyun.com/ **
 
 | 姓名 |	账号 |	备注 |
-虞正权*	zhengquan.yu@neurosci.com.cn	公共投稿邮箱-通用密码，
+|虞正权* |	zhengquan.yu@neurosci.com.cn | 公共投稿邮箱-通用密码，
 通讯作者邮箱【手稿用】
 陈罡*	gang.chen@neurosci.com.cn	公共投稿邮箱-通用密码
 王中*	zhong.wang@neurosci.com.cn	公共投稿邮箱-通用密码
