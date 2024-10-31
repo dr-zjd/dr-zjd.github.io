@@ -5,11 +5,13 @@ entries:
   - title: 站点汇总
     entries:
       - title: My page
-      - title: 身份上传查询平台入口
-        url: https://www.wjx.cn/resultquery.aspx?activity=136392882
-      - title: "其他站点 <a href='http://www.yzq.net.cn'>虞·你相遇</a> 和 <a href='https://www.wjx.cn/vj/ORSaYQ1.aspx'>身份信息上传平台</a>"
-      - title: 博客空间
-        url: https://dr-zjd.github.io/
+      - title: 教培通知
+        url: https://fyy.sdfyy.cn/AdminDept/lists/category/606/id/14.html
+#      - title: "其他站点 <a href='http://www.yzq.net.cn'>虞·你相遇</a> 和 <a href='https://www.wjx.cn/vj/ORSaYQ1.aspx'>身份信息上传平台</a>"
+      - title: 苏大附四院
+        url: https://www.sdhmdp.com/article/lists/category/63.html
+      - title: 苏州市立医院
+        url: https://rs.smh.cc:44333/zp.html#/
 
 #  - title: 主要内容
 #    post_list:
