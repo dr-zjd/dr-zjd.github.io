@@ -13,6 +13,25 @@ entries:
       - title: 苏州市立医院
         url: https://rs.smh.cc:44333/zp.html#/
 
+- title: 文献投稿
+    entries:
+      - title: Journal of Neurosurgery
+        url: https://jns.msubmit.net/cgi-bin/main.plex?form_type=home
+      - title: Clinical Neurology and Neurosurgery
+        url: https://www.editorialmanager.com/cnn/default2.aspx
+      - title: MDPI
+        url: https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue
+      - title: Wiley
+        url: https://wiley.atyponrex.com/submission/dashboard
+      - title: Journal of Medical Case Reports
+        url: https://www.editorialmanager.com/jmcr/default2.aspx
+      - title: iScience
+        url: https://www.editorialmanager.com/iscience/default2.aspx
+      - title: 
+        url: 
+
+
+
 #  - title: 主要内容
 #    post_list:
 #      limit: 8
